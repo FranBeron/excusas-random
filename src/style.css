@@ -3,3 +3,12 @@
 body{
     background: white;
 }
+
+.container-fluid{
+    height: 500px;
+    align-content: center;
+}
+
+p {
+    font-size: 20px;
+}
